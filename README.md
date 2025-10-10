@@ -51,7 +51,7 @@ GPA: 3.30 / 4.00
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=js,python,java,cplusplus,css)](https://skillicons.dev) |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your githubUsername]&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iignlu&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </div>
 
 ---
@@ -84,20 +84,29 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your githubUsername]&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[Your githubUsername]&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iignlu&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iignlu&theme=default&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Your githubUsername]&theme=minimal&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iignlu&theme=minimal&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ## 🎯 Interests & Hobbies
 
-[Your hobbies]
+🌐 Exploring new tech & coding challenges
 
+🎨 UI/UX design & creative projects
+
+🤖 Machine learning experiments
+
+📚 Reading tech blogs & tutorials
+
+🎮 Gaming & solving puzzles
+
+🏞️ Traveling & photography
 ---
 
 ## 📞 Contact Information
@@ -122,7 +131,7 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Your githubUsername]&color=blue&style=flat&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=iignlu&color=blue&style=flat&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
