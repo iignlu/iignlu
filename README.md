@@ -31,23 +31,10 @@
 
 ## 🎓 Education
 
-**[Your degree]**  
-*[Your university]* | [Your graduationYear]  
-**GPA:** [Your gpa]
+🎓 Bachelor of Computer Science
+Jubail Industrial College  | 2026
+GPA: 3.30 / 4.00
 
----
-
-## 💼 Professional Experience
-
-### [Your jobTitle]
-**Student at Jubail Industrial college** | [Your workStartDate] - [Your workEndDate]
-
-[Your workDescription]
-
-### [Your previousJobTitle]
-**[Your previousCompany]** | [Your previousWorkStartDate] - [Your previousWorkEndDate]
-
-[Your previousWorkDescription]
 
 ---
 
