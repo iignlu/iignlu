@@ -52,7 +52,7 @@ GPA: SECRET / 4.00
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=js,python,java,cplusplus,css)](https://skillicons.dev) |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iignlu&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iignlu&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </div>
 
 ---
