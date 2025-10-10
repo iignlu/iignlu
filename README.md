@@ -35,7 +35,7 @@
 
 Jubail Industrial College  | 2026
 
-GPA: 3.30 / 4.00
+GPA: SECRET / 4.00
 
 
 ---
