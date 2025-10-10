@@ -85,12 +85,12 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iignlu&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iignlu&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iignlu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iignlu&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iignlu&theme=minimal&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iignlu&theme=dark&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
