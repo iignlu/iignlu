@@ -1,17 +1,17 @@
 # Abdullah Alshehri
 
 <div align="center">
-  <h2>[Your title]</h2>
+  <h2>⚡ Code, Create, Conquer</h2>
   <p>📍 Jubail, Saudi Arabia | 📧 abd.alshehri.2004@gmail.com | 📱 [Your phone]</p>
   
   <p>
-    <a href="https://linkedin.com/in/[Your linkedinUsername]">
+    <a href="https://linkedin.com/in/abdullah-alshehri-596658250">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/[Your githubUsername]">
+    <a href="https://github.com/iignlu">
       <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="[Your websiteUrl]">
+    <a href="https://alshehri-portfolio.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
