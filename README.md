@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>⚡ Code, Create, Conquer</h2>
-  <p>📍 Jubail, Saudi Arabia | 📧 abd.alshehri.2004@gmail.com | 📱 [Your phone]</p>
+  <p>📍 Jubail, Saudi Arabia | 📧 abd.alshehri.2004@gmail.com | 📱 +966536980276</p>
   
   <p>
     <a href="https://linkedin.com/in/abdullah-alshehri-596658250">
@@ -46,8 +46,8 @@ GPA: 3.30 / 4.00
 
 | Category | Technologies |
 |----------|-------------|
-| **Programming Languages** | [Your technicalSkills] |
-| **Soft Skills** | [Your softSkills] |
+| **Programming Languages** | python , java, c++ |
+| **Soft Skills** | Collaboration, Creativity, Communication, Problem-solving, Innovation. |
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=js,python,java,cplusplus,css)](https://skillicons.dev) |
 
 <div align="center">
@@ -60,29 +60,17 @@ GPA: 3.30 / 4.00
 
 ### 1. 🌐 Personal Portfolio Website
 **Technologies:** HTML, CSS, JavaScript  
-**Repository:** [View on GitHub]([Your project1Url])
+**Repository:** [portfolio](https://alshehri-portfolio.netlify.app/)
 
 My first full web project — a responsive portfolio website built to showcase my work, skills, and projects. It was my first real hands-on experience with web development and deployment.
 
 ### 2. 🎨 Personal Portfolio Design (UI/UX)
 **Technologies:** Figma (UI/UX Design Tool)  
-**Repository:** [View on GitHub]([Your project2Url])
 
 A modern and minimalist portfolio design created in Figma. I focused on clean structure, usability, and smooth visual flow — it later became the base for my website.
 
-### 3. [Your project3Name]
-**Technologies:** [Your project3Tech]  
-**Repository:** [View on GitHub]([Your project3Url])
-
-[Your project3Description]
-
 ---
 
-## 📜 Certifications
-
-- 🏆 [Your certification1]
-- 🏆 [Your certification2]
-- 🏆 [Your certification3]
 
 ---
 
@@ -90,7 +78,6 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
 
 - ⭐ 🏆 Winning the Competitive Programming Contest (CPC) was my first big achievement — it really boosted my confidence in problem-solving and teamwork.
 - ⭐ 🌐 I’m also proud of building and deploying my personal portfolio website from scratch — it was my first real step into full web development and seeing it live online felt amazing.
-- ⭐ [Your achievement3]
 
 ---
 
@@ -124,11 +111,11 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
       </td>
       <td align="center">
         <strong>💼 LinkedIn</strong><br/>
-        <a href="https://linkedin.com/in/[Your linkedinUsername]">linkedin.com/in/[Your linkedinUsername]</a>
+        <a href="https://linkedin.com/in/abdullah-alshehri-596658250">linkedin.com/in/[Your linkedinUsername]</a>
       </td>
       <td align="center">
         <strong>🌐 Portfolio</strong><br/>
-        <a href="[Your websiteUrl]">[Your websiteUrl]</a>
+        <a href="[Your websiteUrl]">https://alshehri-portfolio.netlify.app/</a>
       </td>
     </tr>
   </table>
