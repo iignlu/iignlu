@@ -32,7 +32,9 @@
 ## 🎓 Education
 
 🎓 Bachelor of Computer Science
+
 Jubail Industrial College  | 2026
+
 GPA: 3.30 / 4.00
 
 
@@ -41,7 +43,6 @@ GPA: 3.30 / 4.00
 ## 🛠️ Technical Skills
 
 <div align="center">
-  react, JavaScript, node.js, aws
 </div>
 
 | Category | Technologies |
