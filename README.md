@@ -108,6 +108,8 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
 🎮 Gaming & solving puzzles
 
 🏞️ Traveling & photography
+
+
 ---
 
 ## 📞 Contact Information
