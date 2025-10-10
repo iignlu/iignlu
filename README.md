@@ -121,7 +121,7 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
       </td>
       <td align="center">
         <strong>💼 LinkedIn</strong><br/>
-        <a href="https://linkedin.com/in/abdullah-alshehri-596658250">linkedin.com/in/[Your linkedinUsername]</a>
+        <a href="https://linkedin.com/in/abdullah-alshehri-596658250">linkedin.com/in/abdullah-alshehri-596658250</a>
       </td>
       <td align="center">
         <strong>🌐 Portfolio</strong><br/>
