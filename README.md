@@ -127,7 +127,7 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
       </td>
       <td align="center">
         <strong>🌐 Portfolio</strong><br/>
-        <a href="[Your websiteUrl]">https://alshehri-portfolio.netlify.app/</a>
+        <a href="https://alshehri-portfolio.netlify.app/">My wbsite</a>
       </td>
     </tr>
   </table>
