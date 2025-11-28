@@ -11,7 +11,7 @@
     <a href="https://github.com/iignlu">
       <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://alshehri-portfolio.netlify.app/">
+    <a href="https://portfolio-2-alshehri.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
@@ -61,7 +61,7 @@ GPA: SECRET / 4.00
 
 ### 1. 🌐 Personal Portfolio Website
 **Technologies:** HTML, CSS, JavaScript  
-**Repository:** [portfolio](https://alshehri-portfolio.netlify.app/)
+**Repository:** [portfolio](https://portfolio-2-alshehri.netlify.app/)
 
 My first full web project — a responsive portfolio website built to showcase my work, skills, and projects. It was my first real hands-on experience with web development and deployment.
 
@@ -127,7 +127,7 @@ A modern and minimalist portfolio design created in Figma. I focused on clean st
       </td>
       <td align="center">
         <strong>🌐 Portfolio</strong><br/>
-        <a href="https://alshehri-portfolio.netlify.app/">My wbsite</a>
+        <a href="https://portfolio-2-alshehri.netlify.app/">My wbsite</a>
       </td>
     </tr>
   </table>
