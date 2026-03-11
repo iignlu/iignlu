@@ -1,144 +1,168 @@
-# Abdullah Alshehri
+# Hi there 👋 I'm Abdullah Alshehri
 
 <div align="center">
-  <h2>⚡ Code, Create, Conquer</h2>
-  <p>📍 Jubail, Saudi Arabia | 📧 abd.alshehri.2004@gmail.com | 📱 +966536980276</p>
-  
-  <p>
-    <a href="https://linkedin.com/in/abdullah-alshehri-596658250">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/iignlu">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://portfolio-2-alshehri.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio"/>
-    </a>
-  </p>
+
+### 💻 Computer Science Student | Web Developer | Tech Enthusiast
+
+📍 Jubail, Saudi Arabia  
+📧 abd.alshehri.2004@gmail.com  
+
+<p>
+<a href="https://linkedin.com/in/abdullah-alshehri-596658250">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/iignlu">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-2-alshehri.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
 </div>
 
 ---
 
-## 👤 Professional Summary
+# 👨‍💻 About Me
 
-👋 Hi, I’m Abdullah!
-💻 I’m a computer science student who enjoys building web apps and exploring new tech.
-🚀 I like working with JavaScript, React, and anything that makes cool projects come to life.
-🌱 Currently learning more about backend and cloud development.
-⚡ Fun fact: I spend way too much time fixing bugs that I created myself 😅
+I'm a **Computer Science student at Jubail Industrial College** passionate about building modern web applications and exploring new technologies.
 
----
+- 🚀 Currently learning **Backend Development & Cloud**
+- 💡 Interested in **Web Development, UI/UX, and Machine Learning**
+- 🧠 I enjoy solving **programming challenges**
+- 🔧 Always building and experimenting with new tech
 
-## 🎓 Education
-
-🎓 Bachelor of Computer Science
-
-Jubail Industrial College  | 2026
-
-GPA: SECRET / 4.00
-
+⚡ *Fun fact:* I spend most of my time fixing bugs that I created myself.
 
 ---
 
-## 🛠️ Technical Skills
+# 🎓 Education
+
+**Bachelor of Computer Science**  
+🏫 Jubail Industrial College  
+📅 Expected Graduation: **2026**
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+</p>
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
+# 🚀 Projects
+
+## 🌐 Personal Portfolio Website
+
+🔗 https://portfolio-2-alshehri.netlify.app/
+
+A responsive portfolio website built to showcase my work and projects.
+
+**Tech Used**
+
+- HTML
+- CSS
+- JavaScript
+
+This was my **first complete web project**, including design, development, and deployment.
+
+---
+
+## 🎨 Portfolio UI/UX Design
+
+Designed a **modern portfolio interface in Figma** focusing on:
+
+- Clean layout
+- User experience
+- Smooth visual hierarchy
+
+The design later became the base for my website.
+
+---
+
+# 🏆 Achievements
+
+🏅 **Competitive Programming Contest (CPC) Winner**
+
+Winning this contest strengthened my confidence in:
+
+- Problem solving
+- Algorithms
+- Team collaboration
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-</div>
 
-| Category | Technologies |
-|----------|-------------|
-| **Programming Languages** | python , java, c++ |
-| **Soft Skills** | Collaboration, Creativity, Communication, Problem-solving, Innovation. |
-| **Languages** | [![My Skills](https://skillicons.dev/icons?i=js,python,java,cplusplus,css)](https://skillicons.dev) |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iignlu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iignlu&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</div>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iignlu&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🚀 Featured Projects
-
-### 1. 🌐 Personal Portfolio Website
-**Technologies:** HTML, CSS, JavaScript  
-**Repository:** [portfolio](https://portfolio-2-alshehri.netlify.app/)
-
-My first full web project — a responsive portfolio website built to showcase my work, skills, and projects. It was my first real hands-on experience with web development and deployment.
-
-### 2. 🎨 Personal Portfolio Design (UI/UX)
-**Technologies:** Figma (UI/UX Design Tool)  
-
-A modern and minimalist portfolio design created in Figma. I focused on clean structure, usability, and smooth visual flow — it later became the base for my website.
-
----
-
-
----
-
-## 🏅 Achievements & Recognition
-
-- ⭐ 🏆 Winning the Competitive Programming Contest (CPC) was my first big achievement — it really boosted my confidence in problem-solving and teamwork.
-- ⭐ 🌐 I’m also proud of building and deploying my personal portfolio website from scratch — it was my first real step into full web development and seeing it live online felt amazing.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iignlu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iignlu&theme=dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iignlu&theme=dark&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎯 Interests & Hobbies
-
-🌐 Exploring new tech & coding challenges
-
-🎨 UI/UX design & creative projects
-
-🤖 Machine learning experiments
-
-📚 Reading tech blogs & tutorials
-
-🎮 Gaming & solving puzzles
-
-🏞️ Traveling & photography
-
-
----
-
-## 📞 Contact Information
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>📧 Email</strong><br/>
-        <a href="mailto:abd.alshehri.2004@gmail.com">abd.alshehri.2004@gmail.com</a>
-      </td>
-      <td align="center">
-        <strong>💼 LinkedIn</strong><br/>
-        <a href="https://linkedin.com/in/abdullah-alshehri-596658250">linkedin.com/in/abdullah-alshehri-596658250</a>
-      </td>
-      <td align="center">
-        <strong>🌐 Portfolio</strong><br/>
-        <a href="https://portfolio-2-alshehri.netlify.app/">My wbsite</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iignlu&color=blue&style=flat&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
 
+# 📈 Most Used Languages
+
 <div align="center">
-  <em>"Always ready to collaborate on innovative projects and contribute to meaningful solutions."</em>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iignlu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Interests
+
+- 🌐 Web Development
+- 🎨 UI/UX Design
+- 🤖 Machine Learning
+- 📚 Tech Blogs & Learning
+- 🎮 Gaming
+- 📸 Photography
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:abd.alshehri.2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abdullah-alshehri-596658250">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-2-alshehri.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ *Always open to collaborating on interesting projects.*
+
 </div>
