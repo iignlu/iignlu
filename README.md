@@ -88,7 +88,8 @@ Once that's done, delete this comment block and keep the image below:
 ### Co-op Trainee — Saudi Arabia Railways (SAR)
 `Jan 2026 – May 2026`
 
-- Built a full-stack web app for tracking train trips, wagons and cargo
+- Built a full-stack internal web application used daily by operations staff
+- Designed the relational database schema behind the application
 - Created data entry forms and automated daily operational workflows
 - Designed KPI dashboards for monitoring operational performance
 - Turned business requirements into shipped features with the team
@@ -122,16 +123,23 @@ Once that's done, delete this comment block and keep the image below:
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🚆 Train Operations App</b> — <i>React · Laravel · PHP · SQL</i></summary>
+<summary><b>🚆 Internal Operations Web Application</b> — <i>React · Laravel · PHP · MySQL</i></summary>
 
 <br />
 
-Full-stack internal application built during my co-op at Saudi Arabia Railways, used to track train trips,
-wagons and cargo.
+Full-stack internal application built during my co-op at Saudi Arabia Railways, developed with the
+engineering team and used daily by operations staff.
 
-- Data entry forms and automated operational workflows
-- KPI dashboards for monitoring operational performance
-- Built from real business requirements with the engineering team
+> Project details are internal, so this covers my contributions and the stack rather than the system itself.
+
+- Designed and implemented the relational database schema
+- Built the React frontend, including the data entry forms used daily by staff
+- Developed backend logic and APIs in Laravel
+- Automated recurring workflows that were previously handled manually
+- Built KPI dashboards for monitoring operational performance
+- Worked with stakeholders to turn business requirements into shipped features
+
+`Jan 2026 – May 2026`
 
 </details>
 
