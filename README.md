@@ -144,6 +144,27 @@ engineering team and used daily by operations staff.
 </details>
 
 <details>
+<summary><b>📡 Job Radar</b> — <i>Python · GitHub Actions · Telegram Bot API · IMAP</i></summary>
+
+<br />
+
+An automated job-alert bot that finds graduate-level software and data roles in Saudi Arabia and pushes each
+match to Telegram with an apply link and the reason it matched. Built to solve my own problem — the good
+postings are gone by the time you find them.
+
+- Aggregates three sources: the JSearch API (Google for Jobs), employer ATS boards (Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee, Workable), and LinkedIn job alerts parsed from my own inbox over IMAP
+- Filters through seven layers — title and body exclusions, freshness, working arrangement, role and level matching, a regex parser for experience requirements, and geography — in both English and Arabic
+- Runs free on GitHub Actions three times a day across the Saudi working week, budgeted to stay inside the API's free tier
+- Pure Python, zero third-party dependencies, state persisted in git instead of a database
+- Unit tested in CI on every push
+
+🔗 **[github.com/iignlu/job-radar](https://github.com/iignlu/job-radar)**
+
+`Jul 2026 – Present`
+
+</details>
+
+<details>
 <summary><b>🧠 Diabetic Retinopathy Detection System</b> — <i>Python · PyTorch · Swin Transformer V2 · Flask</i></summary>
 
 <br />
