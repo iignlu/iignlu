@@ -53,28 +53,36 @@ body {
 }
 
 /* --------------------------------------------------------------------
-   Wood-grain placeholder shown wherever a real photo has not been
-   uploaded yet, so an empty gallery still looks intentional.
+   Wood-grain placeholders shown wherever a real photo has not been
+   uploaded yet. The site is photo-led, so an empty gallery would be an
+   empty site — these keep it looking deliberate until the real images
+   land. Five tones so a stack of panels never looks like one repeated
+   tile.
    -------------------------------------------------------------------- */
 .wood-placeholder {
   background-color: #6b4527;
   background-image:
     repeating-linear-gradient(
       100deg,
-      rgba(0, 0, 0, 0.16) 0px,
-      rgba(0, 0, 0, 0.16) 1px,
+      rgba(0, 0, 0, 0.05) 0px,
+      rgba(0, 0, 0, 0.05) 1px,
       transparent 1px,
-      transparent 7px
-    ),
-    repeating-linear-gradient(
-      98deg,
-      rgba(255, 255, 255, 0.07) 0px,
-      rgba(255, 255, 255, 0.07) 2px,
-      transparent 2px,
-      transparent 13px
+      transparent 14px
     ),
     linear-gradient(160deg, #8a5c34 0%, #5c3a22 55%, #3a2417 100%);
 }
+.wood-1 { background-image:
+  repeating-linear-gradient(94deg, rgba(0,0,0,.05) 0 1px, transparent 1px 16px),
+  linear-gradient(200deg, #a3703f 0%, #6b4527 60%, #3a2417 100%); }
+.wood-2 { background-image:
+  repeating-linear-gradient(88deg, rgba(0,0,0,.06) 0 1px, transparent 1px 12px),
+  linear-gradient(140deg, #8b6038 0%, #4a2f1d 55%, #2e1d12 100%); }
+.wood-3 { background-image:
+  repeating-linear-gradient(102deg, rgba(255,255,255,.03) 0 2px, transparent 2px 18px),
+  linear-gradient(20deg, #7c5330 0%, #45291a 70%, #23150d 100%); }
+.wood-4 { background-image:
+  repeating-linear-gradient(96deg, rgba(0,0,0,.05) 0 1px, transparent 1px 15px),
+  linear-gradient(175deg, #96683c 0%, #5c3a22 50%, #2b1a10 100%); }
 
 .night-gradient {
   background: linear-gradient(165deg, #3a2417 0%, #23150d 60%, #150c07 100%);

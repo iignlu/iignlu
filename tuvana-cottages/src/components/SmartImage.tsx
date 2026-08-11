@@ -16,12 +16,15 @@ export function SmartImage({
   className = "",
   sizes,
   priority = false,
+  tone = 0,
 }: {
   src?: string | null;
   alt: string;
   className?: string;
   sizes?: string;
   priority?: boolean;
+  /** Varies the placeholder shade so stacked panels never look identical. */
+  tone?: number;
 }) {
   const [failed, setFailed] = useState(false);
   const ref = useRef<HTMLImageElement>(null);
@@ -38,13 +41,22 @@ export function SmartImage({
   if (!src || failed) {
     return (
       <div
-        className={`wood-placeholder flex items-center justify-center ${className}`}
+        className={`wood-placeholder ${["", "wood-1", "wood-2", "wood-3", "wood-4"][tone % 5]} flex items-center justify-center ${className}`}
         role="img"
         aria-label={alt}
       >
-        <svg viewBox="0 0 48 40" className="h-10 w-10 text-cream/35" fill="none" aria-hidden="true">
-          <path d="M6 24 24 8l18 16v12H6Z" stroke="currentColor" strokeWidth="2.4" strokeLinejoin="round" />
-          <path d="M20 36v-8h8v8" stroke="currentColor" strokeWidth="2.4" strokeLinejoin="round" />
+        {/* A calm mountain-and-cabin scene rather than a broken-image
+            glyph, so a site awaiting its photos still looks composed. */}
+        <svg
+          viewBox="0 0 400 300"
+          preserveAspectRatio="xMidYMax slice"
+          className="absolute inset-0 h-full w-full"
+          aria-hidden="true"
+        >
+          <circle cx="318" cy="72" r="15" fill="#e6c48f" opacity="0.28" />
+          <path d="M0 190 60 140 110 175 170 118 240 180 300 143 360 186 400 158V300H0Z" fill="#1a0f08" opacity="0.22" />
+          <path d="M0 221 70 179 130 216 200 168 270 216 340 184 400 216V300H0Z" fill="#1a0f08" opacity="0.34" />
+          <path d="M0 256 80 224 150 251 230 214 320 251 400 229V300H0Z" fill="#1a0f08" opacity="0.5" />
         </svg>
       </div>
     );
