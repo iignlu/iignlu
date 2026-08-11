@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+/* =====================================================================
+   Tuvana Cottages — brand tokens taken from the printed flyer:
+   espresso wood, caramel, gold lamplight, cream paper.
+   ===================================================================== */
+@theme {
+  --color-espresso: #23150d;
+  --color-bark: #3a2417;
+  --color-cocoa: #5c3a22;
+  --color-caramel: #a9743f;
+  --color-gold: #d3a15e;
+  --color-gold-soft: #e6c48f;
+  --color-sand: #e3d3bc;
+  --color-cream: #f8f2e9;
+  --color-paper: #fdfaf5;
+  --color-moss: #5f6b4a;
+
+  --font-sans: var(--font-tajawal), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-xl2: 1.25rem;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-espresso);
+  font-family: var(--font-sans);
+  /* Nothing on this site should ever scroll sideways on a phone. */
+  overflow-x: hidden;
+}
+
+/* Arabic numerals render more legibly than Eastern ones for prices and
+   dates in this layout, so keep Latin digits everywhere. */
+* {
+  font-variant-numeric: lining-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* --------------------------------------------------------------------
+   Wood-grain placeholder shown wherever a real photo has not been
+   uploaded yet, so an empty gallery still looks intentional.
+   -------------------------------------------------------------------- */
+.wood-placeholder {
+  background-color: #6b4527;
+  background-image:
+    repeating-linear-gradient(
+      100deg,
+      rgba(0, 0, 0, 0.16) 0px,
+      rgba(0, 0, 0, 0.16) 1px,
+      transparent 1px,
+      transparent 7px
+    ),
+    repeating-linear-gradient(
+      98deg,
+      rgba(255, 255, 255, 0.07) 0px,
+      rgba(255, 255, 255, 0.07) 2px,
+      transparent 2px,
+      transparent 13px
+    ),
+    linear-gradient(160deg, #8a5c34 0%, #5c3a22 55%, #3a2417 100%);
+}
+
+.night-gradient {
+  background: linear-gradient(165deg, #3a2417 0%, #23150d 60%, #150c07 100%);
+}
+
+/* Focus ring that stays visible against both cream and espresso. */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid var(--color-gold);
+  outline-offset: 2px;
+  border-radius: 0.5rem;
+}
+
+/* Wide content (tables in the admin area) scrolls in its own box. */
+.scroll-x {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: none; }
+}
+.animate-fade-up {
+  animation: fade-up 0.5s ease-out both;
+}
