@@ -1,50 +1,60 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=6E8AFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah+Alshehri;Full-Stack+Developer;React+%2B+Laravel;Computer+Science+Graduate" alt="Abdullah Alshehri" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=5B8DEF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+Python;Building+Modern+Enterprise+Applications;Always+Learning+Something+New" alt="Full Stack Developer" />
 
-<p>
-  <em>Developer &nbsp;·&nbsp; Computer Science graduate &nbsp;·&nbsp; Abha, Saudi Arabia 🇸🇦</em>
-</p>
+# Hi, I'm Abdullah Alshehri 👋
+
+### Full Stack Developer • Computer Science Graduate • Saudi Arabia 🇸🇦
+
+Building software that solves real-world operational problems.
 
 <p>
   <a href="https://aalshehri.site">
-    <img src="https://img.shields.io/badge/Portfolio-aalshehri.site-6E8AFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-aalshehri.site-5B8DEF?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abdullah-alshehri-596658250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abd.alshehri.2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=flat-square" alt="Open to opportunities" />
-  <img src="https://img.shields.io/badge/Timezone-AST%20(UTC%2B3)-6E8AFF?style=flat-square" alt="Timezone AST UTC+3" />
+  <img src="https://img.shields.io/badge/Timezone-AST%20(UTC%2B3)-5B8DEF?style=flat-square" alt="Timezone AST UTC+3" />
   <img src="https://img.shields.io/badge/Replies%20in-under%2024h-F59E0B?style=flat-square" alt="Replies within 24 hours" />
-  <img src="https://komarev.com/ghpvc/?username=iignlu&style=flat-square&color=6E8AFF&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iignlu&style=flat-square&color=5B8DEF&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-## 👋 About
+## 👨‍💻 About Me
 
-Computer Science graduate from **Jubail Industrial College**, based in **Abha, Saudi Arabia**.
+Computer Science graduate from **Jubail Industrial College**, based in **Abha, Saudi Arabia**, passionate
+about building software that is both useful and enjoyable to use.
 
-I build web applications with **React** and **Laravel**. Most of my work sits where the frontend meets real
-operational data — forms people fill in every day, workflows that have to be right, and dashboards someone
-actually makes decisions from.
+Rather than focusing only on code, I enjoy understanding how businesses work and turning their workflows
+into reliable digital products. Most of my work sits where the frontend meets real operational data — forms
+people fill in every day, workflows that have to be right, and dashboards someone actually makes decisions
+from.
+
+During my internship at **Saudi Arabia Railways (SAR)**, I contributed to internal operational systems used
+daily by staff, covering data entry workflows, process automation and KPI reporting.
+
+I'm currently looking for opportunities where I can contribute to modern software products while continuing
+to grow as a full-stack developer.
 
 ```yaml
 name:       Abdullah Alshehri
-role:       Full-Stack Developer
+role:       Full Stack Developer
 location:   Abha, Saudi Arabia (AST / UTC+3)
 focus:      React · Laravel · Operational dashboards
-learning:   Deep learning for medical imaging
+learning:   Clean architecture · System design · AI engineering
 status:     Open to opportunities
-fun_fact:   I spend a lot of time fixing bugs I created myself 😅
+fun_fact:   Coffee usually fixes half my bugs ☕
 ```
 
 ---
@@ -83,16 +93,61 @@ Once that's done, delete this comment block and keep the image below:
 
 ---
 
+## 🚀 What I Enjoy Building
+
+<div align="center">
+
+`Enterprise Applications` &nbsp;·&nbsp; `Full Stack Web Apps` &nbsp;·&nbsp; `Operational Dashboards`
+
+`Internal Business Systems` &nbsp;·&nbsp; `Data Visualization` &nbsp;·&nbsp; `UI/UX Design` &nbsp;·&nbsp; `AI-powered Applications`
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,php,js,java,cpp&theme=dark" alt="Python, PHP, JavaScript, Java, C++" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="React, HTML, CSS, Tailwind" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" alt="Laravel, Node.js" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Git, GitHub, Figma, VS Code" />
+
+</div>
+
+---
+
 ## 💼 Experience
 
-### Co-op Trainee — Saudi Arabia Railways (SAR)
-`Jan 2026 – May 2026`
+### Saudi Arabia Railways (SAR) — Full Stack Developer Intern
+`January 2026 – May 2026`
+
+Worked alongside engineers to build internal systems supporting railway operations.
 
 - Built a full-stack internal web application used daily by operations staff
 - Designed the relational database schema behind the application
-- Created data entry forms and automated daily operational workflows
-- Designed KPI dashboards for monitoring operational performance
-- Turned business requirements into shipped features with the team
+- Developed operational data entry workflows
+- Automated repetitive business processes
+- Designed KPI dashboards for operational monitoring
+- Collaborated with stakeholders to turn business requirements into production-ready features
+
+**Tech:** React • Laravel • PHP • SQL
 
 ### 🎓 Education
 
@@ -100,27 +155,7 @@ Once that's done, delete this comment block and keep the image below:
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,php,java,cpp&theme=dark" alt="Python, JavaScript, PHP, Java, C++" />
-
-**Web**
-
-<img src="https://skillicons.dev/icons?i=react,laravel,html,css,nodejs&theme=dark" alt="React, Laravel, HTML, CSS, Node.js" />
-
-**Data & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode&theme=dark" alt="SQL, Git, GitHub, Figma, VS Code" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 <details open>
 <summary><b>🚆 Internal Operations Web Application</b> — <i>React · Laravel · PHP · MySQL</i></summary>
@@ -165,7 +200,7 @@ postings are gone by the time you find them.
 </details>
 
 <details>
-<summary><b>🧠 Diabetic Retinopathy Detection System</b> — <i>Python · PyTorch · Swin Transformer V2 · Flask</i></summary>
+<summary><b>🧠 AI Diabetic Retinopathy Detection</b> — <i>Python · PyTorch · Swin Transformer V2 · Flask</i></summary>
 
 <br />
 
@@ -173,7 +208,7 @@ My graduation project — an AI-powered web application that detects the severit
 retinal images, applying deep learning to medical imaging.
 
 - Upload retinal images for analysis
-- Classification into severity levels
+- AI classification into severity levels
 - Patient-friendly results interface
 - Planned clinician dashboard
 
@@ -185,7 +220,7 @@ retinal images, applying deep learning to medical imaging.
 <br />
 
 My portfolio, built from scratch with no framework and no build step. Fully bilingual (English / العربية)
-with real RTL support, deployed on Netlify.
+with real RTL support, responsive and fast, deployed on Netlify.
 
 🔗 **[aalshehri.site](https://aalshehri.site)**
 
@@ -196,8 +231,10 @@ with real RTL support, deployed on Netlify.
 
 <br />
 
-A modern, minimalist portfolio interface designed in Figma — clean layout, user-friendly navigation, and a
-strong visual hierarchy. The design became the base for my personal site.
+A complete Figma design produced before development — clean layout, user-friendly navigation, and a strong
+visual hierarchy. The design became the base for my personal site.
+
+**Focus:** Accessibility · Simplicity · Consistency · Visual Hierarchy
 
 </details>
 
@@ -208,20 +245,22 @@ strong visual hierarchy. The design became the base for my personal site.
 | | |
 | :-- | :-- |
 | 🥇 | **1st Place — Programming Contest (CPC)** · Computer Club, 2024 |
-| 📄 | **Certificate of Appreciation — Co-op Training** · Saudi Arabia Railways (SAR) |
-| 📄 | **Foundations: Data, Data, Everywhere** · Google |
-| 📄 | **Python for Data Analysis: Pandas & NumPy** · Coursera |
-| 📄 | **SQL for BigQuery & Cloud SQL** · Google Cloud |
+| 🚆 | **Certificate of Appreciation — Co-op Training** · Saudi Arabia Railways (SAR) |
+| 📊 | **Foundations: Data, Data, Everywhere** · Google |
+| 🐍 | **Python for Data Analysis: Pandas & NumPy** · Coursera |
+| ☁ | **SQL for BigQuery & Cloud SQL** · Google Cloud |
 
 ---
 
-## 📊 GitHub
+## 📈 GitHub
 
 <div align="center">
 
 <img height="180em" src="https://streak-stats.demolab.com?user=iignlu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iignlu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=iignlu&theme=tokyonight&no-frame=true&column=4" alt="GitHub trophies" />
 
 </div>
 
@@ -240,26 +279,44 @@ CSS/HTML/TypeScript — which undersells the React/Laravel/Python work you actua
 
 ---
 
-## 🎯 Interests
+## 🌱 Currently Learning
 
-<div align="center">
+- Advanced Laravel Architecture
+- Clean Architecture
+- System Design
+- Cloud Deployment
+- Power BI & Data Analytics
 
-`Web Development` &nbsp;·&nbsp; `UI/UX Design` &nbsp;·&nbsp; `Machine Learning` &nbsp;·&nbsp; `Tech Blogs` &nbsp;·&nbsp; `Gaming` &nbsp;·&nbsp; `Photography`
+## 🎯 2026 Goals
 
-</div>
+- Contribute to open source
+- Build SaaS products
+- Deepen AI engineering skills
+- Earn cloud certifications
+- Join a world-class engineering team
 
 ---
 
-## 🤝 Let's Collaborate
+## ☕ Fun Facts
 
-I'm always interested in open source contributions, ambitious projects, and working with people who care
-about what they build. I'm in **UTC+3** — see [working hours](#-working-hours) above for the best time to
-catch me live.
+- I enjoy turning messy workflows into simple software.
+- I care about clean UI as much as clean code.
+- I probably spent more time debugging than writing code.
+- Coffee usually fixes half my bugs ☕
+
+**Interests:** `Web Development` · `UI/UX Design` · `Machine Learning` · `Tech Blogs` · `Gaming` · `Photography`
+
+---
 
 <div align="center">
 
-<a href="https://aalshehri.site"><b>aalshehri.site</b></a> &nbsp;·&nbsp;
-<a href="mailto:abd.alshehri.2004@gmail.com"><b>abd.alshehri.2004@gmail.com</b></a> &nbsp;·&nbsp;
+## 🤝 Let's Build Something Great
+
+I'm always open to collaborating on interesting ideas, open-source projects, or full-time opportunities.
+I'm in **UTC+3** — see [working hours](#-working-hours) above for the best time to catch me live.
+
+<a href="https://aalshehri.site"><b>Portfolio</b></a> &nbsp;·&nbsp;
+<a href="mailto:abd.alshehri.2004@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/abdullah-alshehri-596658250/"><b>LinkedIn</b></a>
 
 <sub>⭐ Thanks for stopping by</sub>
