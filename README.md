@@ -15,7 +15,7 @@ Building software that solves real-world operational problems.
   <a href="https://www.linkedin.com/in/abdullah-alshehri-596658250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abd.alshehri.2004@gmail.com">
+  <a href="mailto:Abdullah.alshehri11@outlook.sa">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -73,7 +73,7 @@ how fast you can expect an answer.
 
 <div align="center">
 
-**Fastest way to reach me:** [email](mailto:abd.alshehri.2004@gmail.com) or
+**Fastest way to reach me:** [email](mailto:Abdullah.alshehri11@outlook.sa) or
 [LinkedIn](https://www.linkedin.com/in/abdullah-alshehri-596658250/) &nbsp;·&nbsp;
 **Typical response:** under 24 hours on weekdays &nbsp;·&nbsp;
 **Overlap:** 🇪🇺 Europe most of the day &nbsp;·&nbsp; 🇺🇸 US East mornings
@@ -316,7 +316,7 @@ I'm always open to collaborating on interesting ideas, open-source projects, or 
 I'm in **UTC+3** — see [working hours](#-working-hours) above for the best time to catch me live.
 
 <a href="https://aalshehri.site"><b>Portfolio</b></a> &nbsp;·&nbsp;
-<a href="mailto:abd.alshehri.2004@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+<a href="mailto:Abdullah.alshehri11@outlook.sa"><b>Email</b></a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/abdullah-alshehri-596658250/"><b>LinkedIn</b></a>
 
 <sub>⭐ Thanks for stopping by</sub>
