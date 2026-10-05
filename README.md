@@ -142,6 +142,7 @@ Worked alongside engineers to build internal systems supporting railway operatio
 
 - Built a full-stack internal web application used daily by operations staff
 - Designed the relational database schema behind the application
+- Supported a data migration from Microsoft Access to SQL Server
 - Developed operational data entry workflows
 - Automated repetitive business processes
 - Designed KPI dashboards for operational monitoring
@@ -191,6 +192,7 @@ postings are gone by the time you find them.
 - Filters through seven layers — title and body exclusions, freshness, working arrangement, role and level matching, a regex parser for experience requirements, and geography — in both English and Arabic
 - Runs free on GitHub Actions three times a day across the Saudi working week, budgeted to stay inside the API's free tier
 - Pure Python, zero third-party dependencies, state persisted in git instead of a database
+- Monitored by a separate dead-man's-switch workflow, so an outage can't look like a quiet week
 - Unit tested in CI on every push
 
 🔗 **[github.com/iignlu/job-radar](https://github.com/iignlu/job-radar)**
@@ -242,13 +244,14 @@ visual hierarchy. The design became the base for my personal site.
 
 ## 🏆 Achievements & Certificates
 
-| | |
-| :-- | :-- |
-| 🥇 | **1st Place — Programming Contest (CPC)** · Computer Club, 2024 |
-| 🚆 | **Certificate of Appreciation — Co-op Training** · Saudi Arabia Railways (SAR) |
-| 📊 | **Foundations: Data, Data, Everywhere** · Google |
-| 🐍 | **Python for Data Analysis: Pandas & NumPy** · Coursera |
-| ☁ | **SQL for BigQuery & Cloud SQL** · Google Cloud |
+| | Certificate | Issuer | Issued |
+| :-- | :-- | :-- | :-- |
+| 🥇 | **1st Place — Programming Contest (CPC)** | Computer Club | 2024 |
+| 🚆 | **Certificate of Appreciation — Co-op Training** | Saudi Arabia Railways (SAR) | May 2026 |
+| 🐍 | **Python Basics** | University of Michigan | Nov 2025 |
+| ☁ | **Introduction to SQL for BigQuery and Cloud SQL** | Google Cloud Skills Boost | Nov 2025 |
+| 🐼 | **Python for Data Analysis: Pandas & NumPy** | Coursera Project Network | Nov 2025 |
+| 📊 | **Foundations: Data, Data, Everywhere** | Google (Coursera) | Oct 2025 |
 
 ---
 
