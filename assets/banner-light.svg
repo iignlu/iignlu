@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+  <title id="t">Abdullah Alshehri — Full-Stack Developer</title>
+  <desc id="d">1st Place, Cloud and Infrastructure, Venture X 26. Winner, Sakanthon 26.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#0E1116" fill-opacity=".07"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#FAFAF8"/>
+      <stop offset=".42" stop-color="#FAFAF8"/>
+      <stop offset=".66" stop-color="#FAFAF8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".52" r=".34">
+      <stop offset="0" stop-color="#047857" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#047857" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x=".5" y=".5" width="1199" height="339" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .pulse{stroke-dasharray:38 340;stroke-dashoffset:378;animation:run 3.8s cubic-bezier(.6,0,.4,1) infinite}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 3.8s ease-out infinite}
+    @keyframes run{to{stroke-dashoffset:0}}
+    @keyframes ping{0%,78%{opacity:0;transform:scale(.6)}86%{opacity:.85}100%{opacity:0;transform:scale(2.4)}}
+    @media (prefers-reduced-motion:reduce){.pulse,.ping{animation:none;opacity:0}}
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#FAFAF8"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+    <rect width="1200" height="340" fill="url(#fade)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="339" rx="18" fill="none" stroke="#E3E4DF"/>
+
+  <text x="64" y="86" class="mono" font-size="14" letter-spacing="3" fill="#8C939E">FULL-STACK DEVELOPER  ·  SAUDI ARABIA</text>
+  <text x="61" y="154" class="sans" font-size="62" font-weight="700" letter-spacing="-1.6" fill="#0E1116">Abdullah Alshehri</text>
+  <text x="64" y="197" class="sans" font-size="25" fill="#8C939E">عبدالله الشهري</text>
+  <text x="64" y="240" class="sans" font-size="19" fill="#555D6B">I build software where the interface meets real data.</text>
+
+  <g class="mono" font-size="12.5" letter-spacing="1.4">
+    <rect x="64" y="268" width="262" height="36" rx="18" fill="#047857" fill-opacity=".07" stroke="#047857" stroke-opacity=".45"/>
+    <circle cx="86" cy="286" r="4" fill="#047857"/>
+    <text x="100" y="290.5" fill="#047857" textLength="206" lengthAdjust="spacing">1ST PLACE · VENTURE X 26</text>
+    <rect x="340" y="268" width="236" height="36" rx="18" fill="#047857" fill-opacity=".07" stroke="#047857" stroke-opacity=".45"/>
+    <circle cx="362" cy="286" r="4" fill="#047857"/>
+    <text x="376" y="290.5" fill="#047857" textLength="182" lengthAdjust="spacing">WINNER · SAKANTHON 26</text>
+  </g>
+
+  <g stroke="#D3D7DD" stroke-width="1.5" stroke-linecap="round">
+    <line x1="850" y1="182" x2="935" y2="108"/>
+    <line x1="850" y1="182" x2="935" y2="254"/>
+    <line x1="935" y1="108" x2="1020" y2="82"/>
+    <line x1="935" y1="108" x2="1020" y2="180"/>
+    <line x1="935" y1="254" x2="1020" y2="180"/>
+    <line x1="935" y1="254" x2="1020" y2="272"/>
+    <line x1="1020" y1="82" x2="1110" y2="180"/>
+    <line x1="1020" y1="180" x2="1110" y2="180"/>
+    <line x1="1020" y1="272" x2="1110" y2="180"/>
+    <line x1="935" y1="108" x2="935" y2="254"/>
+    <line x1="1020" y1="82" x2="1020" y2="272"/>
+  </g>
+  <path d="M850,182 L935,254 L1020,180 L1110,180" fill="none" stroke="#047857" stroke-opacity=".55" stroke-width="2" stroke-linejoin="round"/>
+  <path class="pulse" d="M850,182 L935,254 L1020,180 L1110,180" fill="none" stroke="#047857" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+    <circle cx="850" cy="182" r="6" fill="#FAFAF8" stroke="#047857" stroke-width="1.75"/>
+    <circle cx="935" cy="108" r="5" fill="#FAFAF8" stroke="#D3D7DD" stroke-width="1.75"/>
+    <circle cx="935" cy="254" r="5" fill="#FAFAF8" stroke="#047857" stroke-width="1.75"/>
+    <circle cx="1020" cy="180" r="5" fill="#FAFAF8" stroke="#047857" stroke-width="1.75"/>
+    <circle cx="1020" cy="82" r="5" fill="#FAFAF8" stroke="#D3D7DD" stroke-width="1.75"/>
+    <circle cx="1020" cy="272" r="5" fill="#FAFAF8" stroke="#D3D7DD" stroke-width="1.75"/>
+    <circle cx="1110" cy="180" r="6" fill="#047857" stroke="#047857" stroke-width="1.75"/>
+  </g>
+  <circle class="ping" cx="1110" cy="180" r="9" fill="none" stroke="#047857" stroke-width="1.5"/>
+  <g class="mono" font-size="11" letter-spacing="1" fill="#8C939E">
+    <text x="834" y="186" text-anchor="end">request</text>
+    <text x="1126" y="184" text-anchor="start">answer</text>
+    <text x="1136" y="314" text-anchor="end">cheapest path · same quality</text>
+  </g>
+</svg>
